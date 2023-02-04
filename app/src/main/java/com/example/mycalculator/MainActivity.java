@@ -37,6 +37,7 @@ public class MainActivity extends AppCompatActivity {
 
         EditText txtUsername;
         EditText txtPassword;
+        EditText point;
         Button btnLogin;
 
         super.onCreate(savedInstanceState);
